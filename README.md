@@ -1,2 +1,2 @@
 # POO
-Some small projects of Object-oriented programming that I made on the GFT's trainning.
+Some small projects of Object-oriented programming that I made on the GFT's trainning using c#.
